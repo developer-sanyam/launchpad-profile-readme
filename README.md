@@ -1,142 +1,153 @@
-# 🚀 Sanyam Jain - Full Stack Developer
+# Sanyam Jain - Full Stack Developer
 
-![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at Work" width="400"/>
+</div>
 
-Welcome to my portfolio! This README provides an overview of my technical expertise, professional experience, and notable projects. Feel free to explore my work and connect with me for collaborations or opportunities.
-
----
-
-## 📞 Contact Information
-
-📞 **Phone:** 797-660-3446  
-📧 **Email:** sanyamjain18999@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/sanyam-jain-5b9b931b4](https://linkedin.com/in/sanyam-jain-5b9b931b4)  
-🌍 **Portfolio:** [sanyamjain-portfolio.vercel.app](https://sanyamjain-portfolio.vercel.app/)  
-🐙 **GitHub:** [github.com/developer-sanyam](https://github.com/developer-sanyam)  
+Welcome to my professional portfolio. I am a dedicated Full Stack Developer with over 3 years of experience building scalable and robust web applications. My expertise bridges both front-end and back-end development, and I thrive in collaborative environments where innovation and technology intersect.
 
 ---
 
-## 🛠️ Technical Skills
-
-### 🎨 Front-End
-🖥️ HTML, CSS, SASS, JavaScript  
-⚡ Vue.js, Tailwind CSS, Bootstrap  
-
-### 🏗️ Back-End
-💎 Ruby, Ruby on Rails (RoR)  
-
-### 🗄️ Databases
-📊 MySQL, PostgreSQL  
-
-### ☁️ Cloud Platforms
-🌍 AWS, Azure, Google Cloud, DigitalOcean  
-
-### 🔧 DevOps
-🐳 Docker, GitLab CI/CD  
-
-### 💻 Operating Systems
-🖥️ Linux (Ubuntu, CentOS), macOS, Windows  
-
-### 🧪 Testing Tools
-🧬 RSpec, Capybara  
-
-### 🛍️ Other Platforms
-🛒 Shopify, WooCommerce, WordPress  
-
-![Tech Stack](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+## Table of Contents
+- [Contact Information](#contact-information)
+- [Technical Skills](#technical-skills)
+- [Professional Summary](#professional-summary)
+- [Work Experience](#work-experience)
+- [Featured Projects](#featured-projects)
+- [Education](#education)
+- [Let's Collaborate](#lets-collaborate)
 
 ---
 
-## 🌟 Professional Summary
+## Contact Information
 
-I am an experienced Full Stack Developer with over 3 years of expertise in building scalable web applications. My focus is on delivering seamless user experiences through robust front-end and back-end solutions. I thrive in cross-functional teams and have a proven track record of managing projects from concept to deployment while leveraging cloud platforms effectively.
-
----
-
-## 💼 Work Experience
-
-### **👨‍💻 InitCoders** (Jodhpur)  
-*Full Stack Web Developer*  
-📅 **July 2022 – June 2024**
-
-- 🏗️ Developed complex web applications using Ruby on Rails and Vue.js.
-- 📈 Managed the full development lifecycle for multiple projects.
-- 🤝 Collaborated with cross-functional teams to meet client requirements.
-
-#### 🏆 Key Achievements:
-✅ **Content Management System (CMS):**  
-🚀 Built a scalable CMS using RoR, Vue.js, Tailwind CSS, and PostgreSQL.  
-📌 Deployed on DigitalOcean with multi-site functionality and custom themes.  
-
-✅ **E-Commerce Platform:**  
-🛍️ Designed a feature-rich platform with RoR and Bootstrap.  
-📱 Enhanced UI/UX for seamless cross-device compatibility.  
-
-✅ **Insite-OR:**  
-⚡ Improved performance with RoR and PostgreSQL.  
-✅ Developed comprehensive test cases for reliable deployments.  
-
-✅ **Maerowitz Law:**  
-⚖️ Delivered a legal services platform using RoR 7 and Bootstrap.  
-
-✅ **Coach Vantage:**  
-📈 Led the development of a dynamic platform using RoR and Vue.js.  
-
-🏅 **Awards:**  
-⭐ Recognized for quick technology adoption and efficient project management.  
+- **Phone:** 797-660-3446  
+- **Email:** [sanyamjain18999@gmail.com](mailto:sanyamjain18999@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sanyam-jain-5b9b931b4](https://linkedin.com/in/sanyam-jain-5b9b931b4)  
+- **Portfolio:** [sanyamjain-portfolio.vercel.app](https://sanyamjain-portfolio.vercel.app/)  
+- **GitHub:** [github.com/developer-sanyam](https://github.com/developer-sanyam)
 
 ---
 
-### **🎯 Freelancer**  
-*Full Stack Developer*  
-📅 **April 2023 – Present**
+## Technical Skills
 
-- 🚀 Delivered custom web solutions using Ruby on Rails, Vue.js, Nuxt.js, Tailwind CSS, PostgreSQL, and Bootstrap.
-- ☁️ Migrated and deployed applications securely on AWS EC2.
+### Front-End
+- **Languages & Tools:** HTML, CSS, SASS, JavaScript
+- **Frameworks:** Vue.js, Tailwind CSS, Bootstrap
 
-#### 🎯 Key Projects:
+### Back-End
+- **Languages & Frameworks:** Ruby, Ruby on Rails (RoR)
 
-✅ **AG Handicrafts:**  
-🛠️ Architected a database for an inquiry website showcasing products.  
-🚀 Managed the project from concept to deployment.  
-🔗 [Visit Website](https://aghandicrafts.com)
+### Databases
+- **Systems:** MySQL, PostgreSQL
 
-✅ **Oooooya:**  
-🛍️ Shopify UI/UX Development: Designed user-centric interfaces with HTML, CSS, JavaScript, and Shopify Liquid.  
-🔧 Shopify App Development: Built a custom app using RoR and React.js for enhanced functionality.  
-🔗 [Visit Website](https://oooooya.com)
+### Cloud Platforms
+- **Services:** AWS, Azure, Google Cloud, DigitalOcean
 
-![Coding](https://media.giphy.com/media/Y4bzv6DYbYztE/giphy.gif)
+### DevOps
+- **Tools:** Docker, GitLab CI/CD
 
----
+### Operating Systems
+- **Environments:** Linux (Ubuntu, CentOS), macOS, Windows
 
-## 🎓 Education
+### Testing Tools
+- **Frameworks:** RSpec, Capybara
 
-📚 **St Anne’s School** (High School) – 2021  
-🎓 **Lucky Institute of Professional Studies** (BCA) – March 2021 to April 2024  
-🏫 **Amity University Jaipur** (MCA) – June 2024 to Present  
+### Other Platforms
+- **CMS/E-commerce:** Shopify, WooCommerce, WordPress
 
 ---
 
-## 🚀 Featured Projects
+## Professional Summary
 
-### 🏗️ Content Management System (CMS)
-A scalable CMS leveraging RoR and Vue.js with multi-site functionality.
-
-### 🛍️ E-Commerce Platform
-A responsive e-commerce solution integrating APIs for enhanced functionality.
-
-### 🏺 AG Handicrafts
-An inquiry-based product showcase website with a well-designed database.
-
-### 🛒 Oooooya Shopify App
-A custom Shopify app built to extend platform capabilities.
+I specialize in designing and deploying robust web applications that deliver seamless user experiences. With a strong foundation in both front-end and back-end technologies, I ensure that every project—from concept to deployment—meets the highest standards of quality and performance. My commitment to efficiency and innovation drives me to continuously refine and expand my technical skills.
 
 ---
 
-## 📈 Let's Collaborate!
+## Work Experience
 
-I’m passionate about solving real-world problems through technology. If you have an exciting project or opportunity in mind, don’t hesitate to reach out!
+### InitCoders (Jodhpur)
+**Full Stack Web Developer**  
+*July 2022 – June 2024*
 
-![Let's Build](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
+- Developed sophisticated web applications using Ruby on Rails and Vue.js.
+- Managed complete development cycles from planning through deployment.
+- Collaborated with cross-functional teams to align solutions with client objectives.
 
+**Key Achievements:**
+- **Content Management System (CMS):**  
+  Developed a scalable CMS with multi-site functionality using RoR, Vue.js, Tailwind CSS, and PostgreSQL; deployed on DigitalOcean.
+- **E-Commerce Platform:**  
+  Designed a feature-rich platform with Ruby on Rails and Bootstrap, optimizing UI/UX for various devices.
+- **Insite-OR:**  
+  Enhanced system performance and reliability with improved test coverage using RoR and PostgreSQL.
+- **Maerowitz Law:**  
+  Delivered a robust legal services platform built on RoR 7 and Bootstrap.
+- **Coach Vantage:**  
+  Led the development of a dynamic platform integrating RoR and Vue.js.
+  
+*Award:* Recognized for rapid technology adoption and efficient project management.
+
+---
+
+### Freelancer
+**Full Stack Developer**  
+*April 2023 – Present*
+
+- Delivered custom web solutions using Ruby on Rails, Vue.js, Nuxt.js, Tailwind CSS, PostgreSQL, and Bootstrap.
+- Successfully migrated and deployed applications on AWS EC2 ensuring secure and scalable operations.
+
+**Key Projects:**
+- **AG Handicrafts:**  
+  Architected a robust inquiry website with a well-designed database system; managed project lifecycle from conception to deployment.  
+  [Visit Website](https://aghandicrafts.com)
+  
+- **Oooooya:**  
+  - **Shopify UI/UX:** Crafted intuitive interfaces using HTML, CSS, JavaScript, and Shopify Liquid.  
+  - **Shopify App:** Developed a custom app with Ruby on Rails and React.js to enhance functionality.  
+  [Visit Website](https://oooooya.com)
+
+---
+
+## Featured Projects
+
+- **Content Management System (CMS):**  
+  A scalable CMS built with RoR and Vue.js featuring multi-site capabilities.
+
+- **E-Commerce Platform:**  
+  A responsive and feature-rich e-commerce solution integrating advanced APIs.
+
+- **AG Handicrafts:**  
+  An inquiry-driven product showcase website with a robust database architecture.
+
+- **Oooooya Shopify App:**  
+  A custom Shopify application developed to extend platform capabilities using modern web technologies.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Tech Stack" width="400"/>
+</div>
+
+---
+
+## Education
+
+- **St Anne’s School**  
+  High School Graduate, 2021
+
+- **Lucky Institute of Professional Studies**  
+  Bachelor of Computer Applications (BCA), March 2021 – April 2024
+
+- **Amity University Jaipur**  
+  Master of Computer Applications (MCA), June 2024 – Present
+
+---
+
+## Let's Collaborate
+
+I am passionate about leveraging technology to solve real-world problems. If you are interested in collaborating or have a project in mind, please get in touch.
+
+[**Contact Me**](mailto:sanyamjain18999@gmail.com)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" alt="Let's Build" width="400"/>
+</div>
