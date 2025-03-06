@@ -1,153 +1,102 @@
-# Sanyam Jain - Full Stack Developer
+# 🚀 Sanyam Jain - Full Stack Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at Work" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at Work" style="border-radius: 15px; width: 100%; max-width: 800px;">
 </div>
 
-Welcome to my professional portfolio. I am a dedicated Full Stack Developer with over 3 years of experience building scalable and robust web applications. My expertise bridges both front-end and back-end development, and I thrive in collaborative environments where innovation and technology intersect.
+I am a passionate Full Stack Developer with over 3+ years of experience building scalable web applications. I thrive on creating seamless user experiences by integrating robust front-end and back-end technologies. My expertise spans managing projects from conception to deployment while ensuring high performance and security.
 
 ---
 
-## Table of Contents
-- [Contact Information](#contact-information)
-- [Technical Skills](#technical-skills)
-- [Professional Summary](#professional-summary)
-- [Work Experience](#work-experience)
-- [Featured Projects](#featured-projects)
-- [Education](#education)
-- [Let's Collaborate](#lets-collaborate)
+## 🛠️ Technical Skills
+
+<!-- Using an HTML table to create card-like layouts -->
+<table align="center">
+  <tr>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>Front-End</h3>
+      <p>
+        <strong>Languages:</strong> HTML, CSS, SASS, JavaScript<br>
+        <strong>Frameworks:</strong> Vue.js, Tailwind CSS, Bootstrap, Next.js, Nuxt.js
+      </p>
+    </td>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>Back-End</h3>
+      <p>
+        <strong>Languages:</strong> Ruby<br>
+        <strong>Framework:</strong> Ruby on Rails (RoR)
+      </p>
+    </td>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>Databases</h3>
+      <p>MySQL, PostgreSQL, Mongo DB</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>Cloud Platforms</h3>
+      <p>AWS, Azure, Google Cloud, DigitalOcean</p>
+    </td>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>DevOps</h3>
+      <p>Docker, GitLab CI/CD</p>
+    </td>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>Operating Systems</h3>
+      <p>Linux (Ubuntu, CentOS), macOS, Windows</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;">
+      <h3>Testing Tools</h3>
+      <p>RSpec, Capybara</p>
+    </td>
+    <td style="border:1px solid #ddd; border-radius:8px; padding:16px; text-align:center; vertical-align:top;" colspan="2">
+      <h3>Other Platforms</h3>
+      <p>Shopify, WooCommerce, WordPress</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Contact Information
+## 📈 Let's Collaborate!
 
-- **Phone:** 797-660-3446  
-- **Email:** [sanyamjain18999@gmail.com](mailto:sanyamjain18999@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sanyam-jain-5b9b931b4](https://linkedin.com/in/sanyam-jain-5b9b931b4)  
-- **Portfolio:** [sanyamjain-portfolio.vercel.app](https://sanyamjain-portfolio.vercel.app/)  
-- **GitHub:** [github.com/developer-sanyam](https://github.com/developer-sanyam)
+I’m passionate about leveraging technology to solve real-world problems. If you have an exciting project or opportunity in mind, let’s connect and create innovative solutions together.
 
----
-
-## Technical Skills
-
-### Front-End
-- **Languages & Tools:** HTML, CSS, SASS, JavaScript
-- **Frameworks:** Vue.js, Tailwind CSS, Bootstrap
-
-### Back-End
-- **Languages & Frameworks:** Ruby, Ruby on Rails (RoR)
-
-### Databases
-- **Systems:** MySQL, PostgreSQL
-
-### Cloud Platforms
-- **Services:** AWS, Azure, Google Cloud, DigitalOcean
-
-### DevOps
-- **Tools:** Docker, GitLab CI/CD
-
-### Operating Systems
-- **Environments:** Linux (Ubuntu, CentOS), macOS, Windows
-
-### Testing Tools
-- **Frameworks:** RSpec, Capybara
-
-### Other Platforms
-- **CMS/E-commerce:** Shopify, WooCommerce, WordPress
-
----
-
-## Professional Summary
-
-I specialize in designing and deploying robust web applications that deliver seamless user experiences. With a strong foundation in both front-end and back-end technologies, I ensure that every project—from concept to deployment—meets the highest standards of quality and performance. My commitment to efficiency and innovation drives me to continuously refine and expand my technical skills.
-
----
-
-## Work Experience
-
-### InitCoders (Jodhpur)
-**Full Stack Web Developer**  
-*July 2022 – June 2024*
-
-- Developed sophisticated web applications using Ruby on Rails and Vue.js.
-- Managed complete development cycles from planning through deployment.
-- Collaborated with cross-functional teams to align solutions with client objectives.
-
-**Key Achievements:**
-- **Content Management System (CMS):**  
-  Developed a scalable CMS with multi-site functionality using RoR, Vue.js, Tailwind CSS, and PostgreSQL; deployed on DigitalOcean.
-- **E-Commerce Platform:**  
-  Designed a feature-rich platform with Ruby on Rails and Bootstrap, optimizing UI/UX for various devices.
-- **Insite-OR:**  
-  Enhanced system performance and reliability with improved test coverage using RoR and PostgreSQL.
-- **Maerowitz Law:**  
-  Delivered a robust legal services platform built on RoR 7 and Bootstrap.
-- **Coach Vantage:**  
-  Led the development of a dynamic platform integrating RoR and Vue.js.
-  
-*Award:* Recognized for rapid technology adoption and efficient project management.
-
----
-
-### Freelancer
-**Full Stack Developer**  
-*April 2023 – Present*
-
-- Delivered custom web solutions using Ruby on Rails, Vue.js, Nuxt.js, Tailwind CSS, PostgreSQL, and Bootstrap.
-- Successfully migrated and deployed applications on AWS EC2 ensuring secure and scalable operations.
-
-**Key Projects:**
-- **AG Handicrafts:**  
-  Architected a robust inquiry website with a well-designed database system; managed project lifecycle from conception to deployment.  
-  [Visit Website](https://aghandicrafts.com)
-  
-- **Oooooya:**  
-  - **Shopify UI/UX:** Crafted intuitive interfaces using HTML, CSS, JavaScript, and Shopify Liquid.  
-  - **Shopify App:** Developed a custom app with Ruby on Rails and React.js to enhance functionality.  
-  [Visit Website](https://oooooya.com)
-
----
-
-## Featured Projects
-
-- **Content Management System (CMS):**  
-  A scalable CMS built with RoR and Vue.js featuring multi-site capabilities.
-
-- **E-Commerce Platform:**  
-  A responsive and feature-rich e-commerce solution integrating advanced APIs.
-
-- **AG Handicrafts:**  
-  An inquiry-driven product showcase website with a robust database architecture.
-
-- **Oooooya Shopify App:**  
-  A custom Shopify application developed to extend platform capabilities using modern web technologies.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Tech Stack" width="400"/>
+<div align="center" style="margin:20px 0;">
+  <a href="mailto:sanyamjain18999@gmail.com" style="text-decoration: none;">
+    <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" alt="Let's Collaborate" style="max-width: 400px; border-radius: 15px;">
+  </a>
 </div>
 
 ---
 
-## Education
-
-- **St Anne’s School**  
-  High School Graduate, 2021
-
-- **Lucky Institute of Professional Studies**  
-  Bachelor of Computer Applications (BCA), March 2021 – April 2024
-
-- **Amity University Jaipur**  
-  Master of Computer Applications (MCA), June 2024 – Present
-
----
-
-## Let's Collaborate
-
-I am passionate about leveraging technology to solve real-world problems. If you are interested in collaborating or have a project in mind, please get in touch.
-
-[**Contact Me**](mailto:sanyamjain18999@gmail.com)
+## 📞 Contact Information
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" alt="Let's Build" width="400"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone Icon"/><br>
+        <a href="tel:+917976603446" style="text-decoration: none;" target="_blank"><strong>+917976603446</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email Icon"/><br>
+        <a href="mailto:developer.sanyam09@gmail.com" style="text-decoration: none;" target="_blank"><strong>developer.sanyam09@gmail.com</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon"/><br>
+        <a href="https://linkedin.com/in/sanyam-jain-5b9b931b4" style="text-decoration: none;" target="_blank"><strong>LinkedIn</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio Icon"/><br>
+        <a href="https://sanyamjain-portfolio.vercel.app/" style="text-decoration: none;" target="_blank"><strong>Portfolio</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon"/><br>
+        <a href="https://github.com/developer-sanyam" style="text-decoration: none;" target="_blank"><strong>GitHub</strong></a>
+      </td>
+    </tr>
+  </table>
 </div>
